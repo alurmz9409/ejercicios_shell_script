@@ -1,0 +1,6 @@
+@reboot /home/admin01/ejercicios_shell_script/UT8_P4_ej4.sh
+*/5 * * * * /home/admin01/ejercicios_shell_script/UT8_P4_ej5.sh
+*/10 * * * * /home/admin01/ejercicios_shell_script/UT8_P4_ej6.sh
+00 02 * * 0 /home/admin01/ejercicios_shell_script/UT8_P4_ej7.sh
+*/2 * * * * /home/admin01/ejercicios_shell_script/UT8_P4_ej8.sh
+00 01 * * * /home/admin01/ejercicios_shell_script/UT8_P4_ej10.sh
